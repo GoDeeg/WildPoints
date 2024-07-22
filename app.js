@@ -5,10 +5,10 @@ const animals = [
     { name: 'Moose / Elch', points: 25 },
     { name: 'Beaver / Biber', points: 5 },
     { name: 'Black Bear / Schwarz Bär', points: 15 },
-    { name: 'chipmunk / Streifenhörnchen', points: 1 },
-    { name: 'squirrel / Eichhörnchen', points: 1 },
-    { name: 'elk / Wapiti Hirsch', points: 3 },
-    { name: 'gopher / Ziesel', points: 1 }
+    { name: 'Chipmunk / Streifenhörnchen', points: 1 },
+    { name: 'Squirrel / Eichhörnchen', points: 1 },
+    { name: 'Elk / Wapiti Hirsch', points: 3 },
+    { name: 'Gopher / Ziesel', points: 1 }
 ];
 
 const standingsKey = 'standings';
