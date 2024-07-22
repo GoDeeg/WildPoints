@@ -3,8 +3,8 @@ const animals = [
     { name: 'Fox / Fuchs', points: 5 },
     { name: 'Mouse / Maus', points: 1 },
     { name: 'Moose / Elch', points: 25 },
-    { name: 'Beaver / Biber', points: 5 }
-    { name: 'Black Bear / Schwarz Baer', points: 15 }
+    { name: 'Beaver / Biber', points: 5 },
+    { name: 'Black Bear / Schwarz Bär', points: 15 }
 ];
 
 const standingsKey = 'standings';
