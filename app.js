@@ -8,7 +8,7 @@ const animals = [
     { name: 'chipmunk', points: 1 },
     { name: 'squirrel', points: 1 },
     { name: 'elk', points: 3 },
-    { name: 'chipmunk', points: 1 }
+    { name: 'gopher', points: 1 }
 ];
 
 const standingsKey = 'standings';
