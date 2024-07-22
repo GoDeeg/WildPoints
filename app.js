@@ -4,7 +4,11 @@ const animals = [
     { name: 'Mouse / Maus', points: 1 },
     { name: 'Moose / Elch', points: 25 },
     { name: 'Beaver / Biber', points: 5 },
-    { name: 'Black Bear / Schwarz Bär', points: 15 }
+    { name: 'Black Bear / Schwarz Bär', points: 15 },
+    { name: 'chipmunk', points: 1 },
+    { name: 'squirrel', points: 1 },
+    { name: 'elk', points: 3 },
+    { name: 'chipmunk', points: 1 }
 ];
 
 const standingsKey = 'standings';
